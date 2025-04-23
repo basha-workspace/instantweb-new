@@ -7,7 +7,7 @@ const demos = [
   {
     title: "Travel Agency Demo",
     button: "View Demo",
-    url: "https://wanderway-celestial-canvas.lovable.app/",
+    url: "https://wanderwaytravel.netlify.app/",
     src: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=3874&auto=format&fit=crop",
   },
   {
