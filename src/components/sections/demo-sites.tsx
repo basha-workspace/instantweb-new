@@ -13,7 +13,7 @@ const demos = [
   {
     title: "Dental Clinic Demo",
     button: "View Demo",
-    url: "https://brightsmile-landing-page.lovable.app/",
+    url: "https://brightsmiledental.netlify.app/",
     src: "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?q=80&w=3870&auto=format&fit=crop",
   }
 ];
