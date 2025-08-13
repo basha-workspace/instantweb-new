@@ -175,7 +175,7 @@ export function Contact() {
                 </Button>
                 <span className="text-slate-600">or</span>
                 <a 
-                  href="https://calendly.com/lalbashaautomates/30min" 
+                  href="https://cal.com/sai-aura-ai/business-meet" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full"
